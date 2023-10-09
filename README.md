@@ -1,2 +1,2 @@
-# Reading_List_App
+# Reading-List-App
 React app
