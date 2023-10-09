@@ -12,10 +12,15 @@ Enter the server folder
 cd server
 ```
 
-Install the node_modules
+Install axios
 
 ```bash
-npm i
+npm install axios
+```
+Install node server (json-server)
+
+```bash
+npm install json-server
 ```
 
 ## Available Scripts
