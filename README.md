@@ -71,10 +71,6 @@ Install the node_modules
 npm i
 ```
 
-## Available Scripts
-
-you can run:
-
 ### `npm start`
 
 - It will run the app with node.
